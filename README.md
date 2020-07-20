@@ -1,2 +1,4 @@
 # AREA_MONITORING
- Restricted area monitoring based on contours detection and image background substraction.
+This is Visual studio project, provides setup for "Restricted Area Monitoring" based on contours detection and image background substraction.
+
+
